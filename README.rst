@@ -16,10 +16,13 @@ Usage
 =====
 
 Run the program like::
-   tree_matching_distance t1.tree t2.tree
+
+  tree_matching_distance t1.tree t2.tree
+
 where the two file parameters contain trees in Newick format on the same taxa.
 
 To use the distance method from within your own code, write::
+
   from ete3 import Tree
   from tree_matching_distance import distance
   t1 = Tree('((a, b), (c, d));')
