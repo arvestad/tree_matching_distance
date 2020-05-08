@@ -3,17 +3,11 @@ tree_matching_distance
 ======================
 
 
-Add a short description here!
+An implementation of the tree distance metric suggested by Lin, Rajan, and Moret, at ISBRA 2011.
 
 
 Description
 ===========
 
-A longer description of your project goes here...
-
-
-Note
-====
-
-This project has been set up using PyScaffold 3.2.3. For details and usage
-information on PyScaffold see https://pyscaffold.org/.
+This package contains a function to import and provides a command-line tool that compares two given
+trees and return a distance between them.

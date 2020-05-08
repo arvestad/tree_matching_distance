@@ -2,4 +2,4 @@
 Contributors
 ============
 
-* arvestad <arve@csc.kth.se>
+* Lars Arvestad <arve@math.su.se>

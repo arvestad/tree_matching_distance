@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
     Setup file for tree_matching_distance.
     Use setup.cfg to configure your project.
